@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunawaa&label=Profile%20views&color=0e75b6&style=flat" alt="yunawaa" /> </p>
 
-- 🌱 Atualmente, estou aprendendo **HTML & CSS;**
+- 🌱 Atualmente, estou aprendendo **HTML, JavaScript & CSS;**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/yunawaa?tab=repositories](https://github.com/yunawaa?tab=repositories)
 
